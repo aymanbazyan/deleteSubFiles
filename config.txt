@@ -1,6 +1,6 @@
 # keep spaces between the "=" (eg. " = "):
 
-PLAYLIST_URL = https://www.youtube.com/playlist?list=PLaeiqSJqUjhxPvwEtKugy3yuTK7UCANZY
+PLAYLIST_URL = https://www.youtube.com/playlist?list=....
 OUTPUT_DIR = ./downloads
 QUALITY = highest
 ADD_INDEX = false
