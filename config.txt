@@ -1,0 +1,9 @@
+# keep spaces between the "=" (eg. " = "):
+
+PLAYLIST_URL = https://www.youtube.com/playlist?list=PLaeiqSJqUjhxPvwEtKugy3yuTK7UCANZY
+OUTPUT_DIR = ./downloads
+QUALITY = highest
+ADD_INDEX = false
+
+# delete string from vidoes titles (optional, comment it if you want full title):
+# DELETE_STR = chapter
